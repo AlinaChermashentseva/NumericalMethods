@@ -1,0 +1,10 @@
+﻿  Methods.cpp
+C:\Users\cherm\source\repos\Methods\Methods\Methods.cpp(12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\cherm\source\repos\Methods\Methods\Methods.cpp(32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\cherm\source\repos\Methods\Methods\Methods.cpp(46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\cherm\source\repos\Methods\Methods\Methods.cpp(64): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\cherm\source\repos\Methods\Methods\Methods.cpp(67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\cherm\source\repos\Methods\Methods\Methods.cpp(82): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\cherm\source\repos\Methods\Methods\Methods.cpp(95): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\cherm\source\repos\Methods\Methods\Methods.cpp(99): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Methods.vcxproj -> C:\Users\cherm\source\repos\Methods\Debug\Methods.exe
